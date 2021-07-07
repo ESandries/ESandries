@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## I'm Emanuel Sandries 👋
+### Frontend Developer & UX Designer
 <!--
 **ESandries/ESandries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
