@@ -1,7 +1,7 @@
 # I'm Emanuel Sandries 👋
 ### Frontend Developer & UI Designer
 
-I'm from Costa Rica. I creates designs and websites to changes lives. 
+I'm from Costa Rica. I creates designs and websites to change lives. 
 
 - 🔭 I’m currently working on SpotifiES
 - 🌱 I’m currently learning React.JS
