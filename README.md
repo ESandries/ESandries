@@ -1,16 +1,15 @@
-## I'm Emanuel Sandries 👋
-### Frontend Developer & UX Designer
-<!--
-**ESandries/ESandries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Emanuel Sandries 👋
+### Frontend Developer & UI Designer
 
-Here are some ideas to get you started:
+I'm from Costa Rica. I creates designs and websites to changes lives. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on SpotifiES
+- 🌱 I’m currently learning React.JS
+- 🤔 I’m looking for help with design, development and creating content.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He / him
+- ⚡ Fun fact: I'm spanish native speaker and english speaker but I don't haver words to describe the love that I feel when I create something.
+
+01. Knowledge in: Figma, Webflow, Adobe Ilustrator, Adobe photoshop, Adobe Premiere, HTML, CSS, JavaScript, Microsoft Office, OBS.
+02. I want to learn about: FullStack Web Developmet, Product Desing, Marketing, Contend creating, Production. 
+03. You will find me in: Twitter, Twich, Youtube, Facebook, LinkedIn, Esandries.com, Podcast Sporify. 
