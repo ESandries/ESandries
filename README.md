@@ -6,7 +6,6 @@ I'm from Costa Rica. I creates designs and websites to changes lives.
 - 🔭 I’m currently working on SpotifiES
 - 🌱 I’m currently learning React.JS
 - 🤔 I’m looking for help with design, development and creating content.
-- 📫 How to reach me: ...
 - 😄 Pronouns: He / him
 - ⚡ Fun fact: I'm spanish native speaker and english speaker but I don't haver words to describe the love that I feel when I create something.
 
